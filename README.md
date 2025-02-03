@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-## What We Are Going to Build
+## Project Details
 This project aims to develop a **Movie Recommendation System** that leverages the TMDB (The Movie Database) dataset to provide content-based recommendations. 
 
 ### Dataset
